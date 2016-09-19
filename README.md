@@ -1,0 +1,2 @@
+# MyNewOpenSourceProject
+New project
